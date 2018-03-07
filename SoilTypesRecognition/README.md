@@ -21,9 +21,9 @@ Attributes
 
 Classes
 ---
-1. soil types in [cement, gravel, snow, sand].
-2. soil types for each given participant in [cement_A, cement_B,..., sand_I].
-3. soil types for each given position in [cement_backpack, cement_left_pocket,..., sand_right_pocket].
+1. soil types in __[cement, gravel, snow, sand]__.
+2. soil types for each given participant in __[cement_A, cement_B,..., sand_I]__.
+3. soil types for each given position in __[cement_backpack, cement_left_pocket,..., sand_right_pocket]__.
 
 Independencies
 ---
@@ -36,8 +36,8 @@ Authors
 ---
 This work was achieved by Ph.D. students affiliated to the **[LIARA laboratory](http://liara.uqac.ca/)** at the Uniersité du Québec à Chicoutimi.
 
-* [Florentin Thullier](florentin.thullier1@uqac.ca), LIARA Laboratory, Université du Québec à Chicoutimi, QC, Canada.
-* [Valère Plantevin](valere.plantevin1@uqac.ca), LIARA Laboratory, Université du Québec à Chicoutimi, QC, Canada.
+* __[Florentin Thullier](florentin.thullier1@uqac.ca)__, LIARA Laboratory, Université du Québec à Chicoutimi, QC, Canada.
+* __[Valère Plantevin](valere.plantevin1@uqac.ca)__, LIARA Laboratory, Université du Québec à Chicoutimi, QC, Canada.
 
 Licence
 ---

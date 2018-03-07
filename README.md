@@ -6,8 +6,8 @@
 
 Detailed list
 ---
-* **SoilTypesRecognition** : Provides both raw and features datasets of several IMU annotated specifically for soil type recognition.
-* **ActivitiesExercisesRecognition** : Provides both raw and features datasets of the LSM9DS1 IMU annotated specifically for both activities and exercises recognition.
+* __SoilTypesRecognition__ : Provides both raw and features datasets of several IMU annotated specifically for soil type recognition.
+* __ActivitiesExercisesRecognition__ : Provides both raw and features datasets of the LSM9DS1 IMU annotated specifically for both activities and exercises recognition.
 
 Authors
 ---

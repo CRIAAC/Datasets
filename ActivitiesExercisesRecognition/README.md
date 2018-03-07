@@ -14,9 +14,9 @@ Authors
 ---
 This work was achieved by Ph.D. students affiliated to the **[LIARA laboratory](http://liara.uqac.ca/)** at the Uniersité du Québec à Chicoutimi.
 
-* [Kévin Chapron](kevin.chapron1@uqac.ca), LIARA Laboratory, Université du Québec à Chicoutimi, QC, Canada.
-* [Valère Plantevin](valere.plantevin1@uqac.ca), LIARA Laboratory, Université du Québec à Chicoutimi, QC, Canada.
-* [Florentin Thullier](florentin.thullier1@uqac.ca), LIARA Laboratory, Université du Québec à Chicoutimi, QC, Canada.
+* __[Kévin Chapron](kevin.chapron1@uqac.ca)__, LIARA Laboratory, Université du Québec à Chicoutimi, QC, Canada.
+* __[Valère Plantevin](valere.plantevin1@uqac.ca)__, LIARA Laboratory, Université du Québec à Chicoutimi, QC, Canada.
+* __[Florentin Thullier](florentin.thullier1@uqac.ca)__, LIARA Laboratory, Université du Québec à Chicoutimi, QC, Canada.
 
 Licence
 ---
