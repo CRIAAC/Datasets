@@ -7,8 +7,8 @@
 Raw data
 ---
 
-* For each dataset under the **raw** folder, attributes refer to raw data produced by each axis of the IMU. A LSM9DS1 has been used, revealing data from an accelerometer **[ax, ay, az]**, a gyroscope **[gx, gy, gz]** and a magnetometer **[mx, my, mz]** .
-* The following table indicates each exercice or activity, the way data it has been recorded, and a short description.  
+* For each dataset under the **raw** folder, attributes refer to raw data produced by each axis of the IMU. A LSM9DS1 has been used, revealing data from an accelerometer **[ax, ay, az]**, a gyroscope **[gx, gy, gz]** and a magnetometer **[mx, my, mz]**.
+* The following table indicates each exercise or activity, the way data it has been recorded, and a short description.  
 
 | Exercice/Activity         | Recording                 | Description                           |    
 | -------------             |:-------------:            |:-----:                                |
@@ -23,15 +23,16 @@ Raw data
 | shortSwitch               | Iteration per iteration   | Fast rotation of the wrist            |
 | shortWalking              | Continued                 | Continuously walking for 30 seconds   |
 
-* Features can be extracted from these raw data, to perform activity recognition with data mining algorithm. An example of features extraction can be found in the **features** folder, and an article using this dataset can be read in this article :
+* Features can be extracted from these raw data, to perform activity recognition with data mining algorithms. An example of features extraction can be found in the **features** folder, and an article using this dataset can be read in this article :
 
 
     Chapron, K.; Plantevin, V.; Thullier, F. A More Efficient Transportable and Scalable System for Real-Time Activities and Exercises Recognition. Sensors 2018, 18, 268, doi:10.3390/s18010268. 
 
+
 Features extracted from raw data
 ---
 
-Every features extracted have been combined in a single file available in the **features** folder. Lines can be described as followed : 
+Every feature extracted have been combined in a single file available in the **features** folder. Lines can be described as followed : 
 
     val_feature1, val_feature2, ..., val_feature104, val_feature105, CLASS, PARTICIPANT
 
