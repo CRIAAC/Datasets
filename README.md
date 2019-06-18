@@ -10,6 +10,8 @@ Detailed list
 
 * __ActivitiesExercisesRecognition__ : Provides both raw and features datasets of the LSM9DS1 IMU annotated specifically for both activities and exercises recognition.
 
+* __SpeedSensorDataset__ : Provides both raw data and analysis performed on it. It is related to the repository <https://github.com/LIARALab/SpeedSensor>.
+
 Authors
 ---
 **[LIARA laboratory](http://liara.uqac.ca/)**
